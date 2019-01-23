@@ -223,11 +223,11 @@
 }
 
 .x-btn {
-    position: relative;
-    bottom: -6%;
-    right: 1%;
+    position: absolute;
+    top: 1%;
+    right: 2%;
     font-size: 23px;
     font-weight: bold;
-    color: #262626;
+    color: #fff;
     cursor: pointer;
 }
